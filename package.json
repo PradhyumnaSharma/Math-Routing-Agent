@@ -1,0 +1,9 @@
+﻿{
+  "name": "math-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Root package.json for Math Agent",
+  "scripts": {
+    "start": "echo Use frontend npm run dev or backend uvicorn"
+  }
+}

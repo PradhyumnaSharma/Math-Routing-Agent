@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+qdrant-client
+sentence-transformers
+pydantic
+sympy
+python-dotenv
+requests
+duckduckgo_search
+transformers>=4.33.0
+accelerate
+torch
+pandas
+tqdm
